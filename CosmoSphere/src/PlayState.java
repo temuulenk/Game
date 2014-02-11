@@ -20,16 +20,8 @@ public class PlayState extends BasicGameState {
     }
     public void render(GameContainer gc, StateBasedGame sbg, Graphics g) throws SlickException { 
     	gc.setAlwaysRender(true);
-
-        
-        
-
-        
-
-
-        
-        
-        
+    	System.out.println("Test 1");
+     
         
     }
     public void update(GameContainer gc, StateBasedGame sbg, int delta) throws SlickException{

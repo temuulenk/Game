@@ -21,15 +21,7 @@ public class MenuState extends BasicGameState {
     public void render(GameContainer gc, StateBasedGame sbg, Graphics g) throws SlickException { 
     	gc.setAlwaysRender(true);
 
-        
-        
 
-        
-
-
-        
-        
-        
         
     }
     public void update(GameContainer gc, StateBasedGame sbg, int delta) throws SlickException{
